@@ -66,8 +66,8 @@ This will create ```new_feature_branch``` in the repo. The -u flag adds it as a 
 Pull requests let you tell others about changes you've pushed to a branch in a repository. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the **main** branch. Its advised **not** to merge your **new_feature_branch** directly into **main** or any other branch without undergoing this review process. Follow the following steps to Open a Pull request:
 
 1. Open the Repository in Github.
-2. On top you can find **Pull Request** button.
-3. Fill all the details and click **Create** to open a pull request.
+2. On top you can find **Compare & pull request** button.
+3. Fill all the details and click **Create pull request** to open a pull request.
 
 ## 9. Resolving Conflict in PR
 
