@@ -49,6 +49,8 @@ After staging your changes, create a commit with a clear and descriptive message
 
 ``git commit -m "Commit Message"``
 
+**Note:** Committing files may fail if they are not properly formatted. To ensure files are properly formatted before committing, the pre-commit tool automatically formats code. If files are modified by pre-commit, add the newly formatted files back to the staging area and re-run the commit command.
+
 ## 7. Push to Remote
 
 **Note**:  If the branch named **new_feature_branch** already exists in the remote repository, ensure to fetch the latest changes before proceeding with further updates. You can achieve this by executing:
